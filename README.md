@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Facundo
-<h3 align="center">I'm a 21-year-old Bachelor's degree student in Systems. I currently work at a consulting firm, where I create, maintain, and provide support for programs developed in RPG or COBOL within the AS/400 environment. I'm passionate about learning and experimenting with different technologies.</h3>
+<h3 align="center">I'm a Bachelor's degree student in Systems. I currently work at a consulting firm, where I create, maintain, and provide support for programs developed in RPG or COBOL within the AS/400 environment. I'm passionate about learning and experimenting with different technologies.</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,c,cs,mysql,mongodb,php,html,css,net,docker" />
