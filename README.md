@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,cobol)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,cob)](https://skillicons.dev)
 <!--
 **LorenteFacundo/LorenteFacundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
