@@ -1,7 +1,10 @@
 ## Hi there 👋 I'm Facundo
 <h3 align="center">I'm a 21-year-old Bachelor's degree student in Systems. I currently work at a consulting firm, where I create, maintain, and provide support for programs developed in RPG or COBOL within the AS/400 environment. I'm passionate about learning and experimenting with different technologies.</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,c,cs,mysql,mongodb,php,html,css,net,docker)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cs,mysql,mongodb,php,html,css,net,docker" />
+ </a>
+</p>
 <!--
 **LorenteFacundo/LorenteFacundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
