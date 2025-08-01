@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Facundo
+<h3 align="center">Soy estudiante de Licenciatura en Sistemas y tengo 21 años. Actualmente trabajo en una consultora, creando, manteniendo y brindando soporte para programas desarrollados en RPG o COBOL en el entorno AS/400. Me apasiona aprender y experimentar con diferentes tecnologías.</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,c,cs,mysql,mongodb,php,html,css,net,docker)](https://skillicons.dev)
 <!--
 **LorenteFacundo/LorenteFacundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
