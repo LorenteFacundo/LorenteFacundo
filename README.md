@@ -55,7 +55,7 @@ En el laburo paso bastante tiempo con sistemas legacy (AS/400, COBOL, RPG), y ah
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏐 VoleyApp <sub><sup>código privado</sup></sub></h3>
+      <h3>🏐 <a href="https://github.com/LorenteFacundo/voleyapp">VoleyApp</a></h3>
       <p>Reservas y gestión para clubes de vóley. Casi toda la lógica vive en PostgreSQL: permisos con Row Level Security y funciones en PL/pgSQL, así la app nunca toca las tablas directo. Tiene turnos recurrentes, caja y bastantes tests.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
@@ -114,7 +114,7 @@ En el laburo paso bastante tiempo con sistemas legacy (AS/400, COBOL, RPG), y ah
 ---
 
 <p align="center">
-  💬 ¿Querés ver el código de VoleyApp o Servi, o charlar de algún proyecto? <a href="mailto:facundo.lorente07@gmail.com">Escribime</a>.
+  💬 ¿Querés ver el código de Servi o charlar de algún proyecto? <a href="mailto:facundo.lorente07@gmail.com">Escribime</a>.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="" />
